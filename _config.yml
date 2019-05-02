@@ -1,2 +1,4 @@
 name: Zekernel - Cybsec, tech and rants
 markdown: kramdown
+
+theme: jekyll-theme-hacker
